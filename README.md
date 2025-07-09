@@ -8,19 +8,7 @@ This project explores how trader behavior (profitability, volume, fees) aligns w
 
 ## 📁 Project Structure
 
-ds_manimaran/
-├── notebook_1.ipynb          # Main Colab notebook with analysis and plots
-├── csv_files/                # Raw and cleaned CSV datasets
-│   ├── fear_greed_index.csv
-│   └── historical_data.csv
-├── outputs/                  # Plots and visual outputs
-│   ├── avg_pnl_by_sentiment.png
-│   ├── avg_fee_by_sentiment.png
-│   ├── total_volume_by_sentiment.png
-│   └── pnl_distribution_by_sentiment.png
-├── ds_report.pdf             # Final summarized insights and explanation
-└── README.md                 # This file
-
+<pre lang="md"> ## 📁 Project Structure ``` ds_manimaran/ ├── notebook_1.ipynb # Main Colab notebook with analysis and plots ├── csv_files/ # Raw and cleaned CSV datasets │ ├── fear_greed_index.csv │ └── historical_data.csv ├── outputs/ # Plots and visual outputs │ ├── avg_pnl_by_sentiment.png │ ├── avg_fee_by_sentiment.png │ ├── total_volume_by_sentiment.png │ └── pnl_distribution_by_sentiment.png ├── ds_report.pdf # Final summarized insights and explanation └── README.md # This file ``` </pre>
 
 ## 🧹 Preprocessing Steps
 - Converted timestamps to `datetime.date`
