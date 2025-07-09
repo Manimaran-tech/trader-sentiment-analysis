@@ -24,7 +24,7 @@ This project explores how trader behavior (profitability, volume, fees) aligns w
 Plots are saved in the `outputs/` folder.
 
 ## ✅ How to Run
-1. Open `notebook_1.ipynb` in [Google Colab](https://colab.research.google.com/)
+1. Open `Trade_analysis.ipynb` in [Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1CnHGRV3oBsZbfrg4L85OqusKlrR5cxFz#scrollTo=IP8-okgiP5yl))
 2. Mount your Google Drive
 3. Update dataset paths if needed
 4. Run the notebook step-by-step
